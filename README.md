@@ -1,3 +1,7 @@
+This is a fullsack website is landing page for tourism company name Natour.
+This technology implements NextJS, NodeJS, React, CSS and Sass.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
