@@ -218,7 +218,14 @@ function HomePage() {
                     </div>    
                 </section>
 
-                    <section className="section-heading">
+                    <section className="section-stories">
+                        <div className="bg-video">
+                            <video className="bg-video__content" autoPlay loop muted>
+                                <source src="img/video.mp4" type="video/mp4" />
+                                <source src="img/video.webm" type="video/webm" />
+                                Your browser is not supported
+                            </video>
+                        </div>
                         <div className="u-center-text u-margin-bottom-big">
                             <h2 className="heading-secondary">
                                 We made people genuinely happy
